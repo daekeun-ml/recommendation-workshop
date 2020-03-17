@@ -8,6 +8,8 @@
 # AWS 추천 시스템 워크샵
 
 1. [Amazon SageMaker Factorization Machine(FM)으로 추천 시스템 구축하기](0.Recommendation-System-FM-KNN.ipynb)
-2. [Amazon Personalize로 첫 캠페인 만들기](1.Building_Your_First_Campaign.ipynb)
-3. [Amazon Personalize 캠페인 및 Interaction 확인](2.View_Campaign_And_Interactions.ipynb)
-4. [리소스 삭제](3.Cleanup.ipynb)
+2. [Amazon Personalize 데이타 가져오기](1.Validating_and_Importing_User_Item_Interaction_Data.ipynb)
+3. [Amazon Personalize 솔류션 생성하기](2.Creating_and_Evaluating_Solutions.ipynb)
+4. [Amazon Personalize 캠페인 생성하기](3.Deploying_Campaigns.ipynb)
+5. [Amazon Personalize 캠페인 및 Interaction 확인](4.View_Campaign_And_Interactions.ipynb)
+6. [리소스 삭제](5.Cleanup.ipynb)

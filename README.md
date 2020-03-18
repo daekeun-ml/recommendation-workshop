@@ -8,11 +8,11 @@
 # AWS 추천 시스템 워크샵
 
 1. [Amazon SageMaker Factorization Machine(FM)으로 추천 시스템 구축하기](0.Recommendation-System-FM-KNN.ipynb)
-2. [Amazon Personalize 데이타 가져오기](1.Validating_and_Importing_User_Item_Interaction_Data.ipynb)
-3. [Amazon Personalize 솔류션 생성하기](2.Creating_and_Evaluating_Solutions.ipynb)
-4. [Amazon Personalize 캠페인 생성하기](3.Deploying_Campaigns.ipynb)
-5. [Amazon Personalize 캠페인 및 Interaction 확인](4.View_Campaign_And_Interactions.ipynb)
-6. [리소스 삭제](5.Cleanup.ipynb)
+2. [Amazon Personalize 데이타 가져오기. 약 15분 소요](1.Validating_and_Importing_User_Item_Interaction_Data.ipynb)
+3. [Amazon Personalize 솔류션 생성하기, 약 40분 소요](2.Creating_and_Evaluating_Solutions.ipynb)
+4. [Amazon Personalize 캠페인 생성하기, 약 10분 소요](3.Deploying_Campaigns.ipynb)
+5. [Amazon Personalize 캠페인 및 Interaction 확인, 약 1분 소요](4.View_Campaign_And_Interactions.ipynb)
+6. [리소스 삭제, 약 10분 소요](5.Cleanup.ipynb)
 
 아래 가이드는 Personalize 핸즈온 실습을 위해서 필요한 환경 구성을 합니다.
 주요하게 세이지 메이커 노트북 인스턴스 생성, 디폴트 Git 코드 복사, S3 버킷 생성, 역할(Role) 생성 및 권한 생성 등을 합니다.
@@ -133,6 +133,8 @@ Lastly click the `Delete Stack` button that shows up on the popup:
 
 보이는 것럼 지워지고 있다는 것을 알 수 있을 겁니다. 'Delete Completed'가 보이면 모든 작업이 완료 된 것 입니다. 수고 하셨습니다. <br>
 You'll now notice that the stack is in progress of being deleted. Once you see `Delete Completed` you know that everything has been deleted and you are 100% done with this lab.
+
+
 
 
 
